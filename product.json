@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Sofa",
+        "price": 599.99,
+        "featured": true,
+        "rating": 4.7,
+        "createdAt": "2023-07-18T12:34:56.789Z",
+        "company": "ikea"
+      },
+      {
+        "name": "Dining Table",
+        "price": 249.95,
+        "featured": false,
+        "rating": 4.2,
+        "createdAt": "2023-07-18T10:20:30.123Z",
+        "company": "liddy"
+      },
+      {
+        "name": "Armchair",
+        "price": 149.99,
+        "featured": true,
+        "rating": 4.8,
+        "createdAt": "2023-07-18T09:15:00.000Z",
+        "company": "caressa"
+      },
+      {
+        "name": "Coffee Table",
+        "price": 79.99,
+        "featured": false,
+        "rating": 4.3,
+        "createdAt": "2023-07-18T15:45:30.987Z",
+        "company": "marcos"
+      },
+      {
+        "name": "Bookshelf",
+        "price": 129.99,
+        "featured": true,
+        "rating": 4.6,
+        "createdAt": "2023-07-18T08:12:45.333Z",
+        "company": "ikea"
+      },
+      {
+        "name": "Desk",
+        "price": 199.95,
+        "featured": false,
+        "rating": 4.4,
+        "createdAt": "2023-07-18T11:05:15.777Z",
+        "company": "liddy"
+      },
+      {
+        "name": "Side Table",
+        "price": 49.99,
+        "featured": true,
+        "rating": 4.9,
+        "createdAt": "2023-07-18T16:30:10.222Z",
+        "company": "caressa"
+      }
+      
+      
+      
+      
+      
+      
+      
+]
